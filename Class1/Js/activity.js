@@ -1,6 +1,7 @@
 /**
  * Created by sethhealy on 11/6/13.
  */
+//////// expressions activity
 //var a = 2;
 //a= a+3;
 //console.log(a);
@@ -50,10 +51,10 @@
 //var result= a+b;
 //console.log(result);
 
-var a = 3;
-a --;
-console.log(a);
-//commit plz
+//var a = 3;
+//a --;
+//console.log(a);
+////commit plz
 
 
 
