@@ -235,7 +235,6 @@
 //console.log(height/2*(base+bases));
 
 
-
 //var a=1;
 //var l=2;
 //var e=3;
@@ -277,6 +276,97 @@
 //percentagepoints*=percentagefromprompt;
 //
 //console.log(percentagepoints);
+
+//inputs 2 of 3 values
+//output is to calculate the third value
+//
+//var global_a =3;
+//var global_b =4;
+//function pythagorean(a,b,c){
+//    if (!(a == null && b == null && c == null)
+//        (a == null && b == null && c != null)
+//        (a == null && b == null && c == null)
+//        (a !== null && b == null && c == null)) {
+//        {
+//        return console.log("you havent entered enough data");
+//            { else if(a,b,c==null)
+//        return Math.sqrt(a * a + b * b);
+//            }
+//
+//
+//console.log(pythagorean(null,null,null));
+//console.log(pythagorean(1,null,null));
+//console.log(pythagorean(null,null,null));
+//console.log(pythagorean(null,null,null));}
+
+
+var left;
+
+for(i=0;i<=100;i++){
+   
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

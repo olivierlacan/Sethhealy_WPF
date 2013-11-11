@@ -2,11 +2,11 @@
  * Created by sethhealy on 11/6/13.
  */
    //problem 1
-//var sparkysage =prompt ("How old is sparky");
+//var sparkysage =parseInt(prompt ("How old is sparky"));
 //
 //age=sparkysage*7;
 //
-//console.log(age);
+//console.log('i am ' +sparkysage+' therefore sparky is '+age);
 
    //problem 2 and 3
 //
