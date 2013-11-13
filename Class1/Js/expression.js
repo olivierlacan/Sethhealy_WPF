@@ -33,3 +33,50 @@
 //console.log(remainder);
 
 ///wacky
+
+// im making a randomized color pattern for my socks in their drawer. i keep my socks segregated but
+// im making a scenario were we can see what socks you pull out without looking.
+
+var array=['Blue sock','White sock','Black sock'];
+
+var randomize= array[Math.floor(Math.random()*array.length)];
+
+console.log('You found a');
+console.log([randomize]);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
