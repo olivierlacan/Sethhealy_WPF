@@ -4,7 +4,7 @@
 //Creating variables
 // variables are were you manipulate code. using var to manipulate the code so we can have set code in there.
 
-var x=7
+var x=7;
 console.log(x);
 
 //expressions are statements where in you can further manipulate the code into more distinct code. In this case we

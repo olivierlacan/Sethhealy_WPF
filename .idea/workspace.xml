@@ -32,10 +32,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="day1array.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="day1array.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Class1/Js/day1array.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="193" column="3" selection-start="3716" selection-end="3720" vertical-scroll-proportion="0.234375" vertical-offset="2745" max-vertical-offset="6525">
+            <state line="193" column="3" selection-start="3716" selection-end="3720" vertical-scroll-proportion="-5.769231" vertical-offset="2745" max-vertical-offset="6525">
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -43,10 +43,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Sethhealy_test.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="Sethhealy_test.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Class1/Js/Sethhealy_test.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="69" column="0" selection-start="1959" selection-end="1959" vertical-scroll-proportion="0.0" vertical-offset="356" max-vertical-offset="1095">
+            <state line="6" column="8" selection-start="185" selection-end="185" vertical-scroll-proportion="0.08836524" vertical-offset="0" max-vertical-offset="1095">
               <folding>
                 <element signature="e#0#44#0" expanded="false" />
               </folding>
@@ -87,8 +87,8 @@
         <option value="$PROJECT_DIR$/Class1/Js/personalexpressions.js" />
         <option value="$PROJECT_DIR$/Class1/Js/day1array.js" />
         <option value="$PROJECT_DIR$/Class1/Js/test.js" />
-        <option value="$PROJECT_DIR$/Class1/Js/Sethhealy_test.js" />
         <option value="$PROJECT_DIR$/Class1/Index.html" />
+        <option value="$PROJECT_DIR$/Class1/Js/Sethhealy_test.js" />
       </list>
     </option>
   </component>
@@ -425,15 +425,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Class1/Js/Sethhealy_test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="69" column="0" selection-start="1959" selection-end="1959" vertical-scroll-proportion="0.0" vertical-offset="356" max-vertical-offset="1095">
-          <folding>
-            <element signature="e#0#44#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Class1/Index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="4" column="37" selection-start="103" selection-end="103" vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="240">
@@ -443,9 +434,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Class1/Js/day1array.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="193" column="3" selection-start="3716" selection-end="3720" vertical-scroll-proportion="0.234375" vertical-offset="2745" max-vertical-offset="6525">
+        <state line="193" column="3" selection-start="3716" selection-end="3720" vertical-scroll-proportion="-5.769231" vertical-offset="2745" max-vertical-offset="6525">
           <folding>
             <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Class1/Js/Sethhealy_test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="8" selection-start="185" selection-end="185" vertical-scroll-proportion="0.08836524" vertical-offset="0" max-vertical-offset="1095">
+          <folding>
+            <element signature="e#0#44#0" expanded="false" />
           </folding>
         </state>
       </provider>
