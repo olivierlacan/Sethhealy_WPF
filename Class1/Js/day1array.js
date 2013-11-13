@@ -299,44 +299,86 @@
 //console.log(pythagorean(null,null,null));
 //console.log(pythagorean(null,null,null));}
 
+//var mylist='';
+//for(i=0;i<=100;i++){
+//if(i%3==0){
+//   mylist= mylist+i+', ';
+//}
+//}
+//console.log(mylist);
 
-var left;
-
-for(i=0;i<=100;i++){
-   
-
-
-
-
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+//
+//
+//var mynumbers=[];
+//var list=0;
+//
+//for(i=0;i<20;i++){
+//
+//    mynumbers[i]=Math.ceil(Math.random()*3);
+//}
+//
+//for(j=0;j<20;j++){
+//
+//    if(mynumbers[j]>mynumbers[j+1]){
+//
+//        list=list+1;
+//    }
+//
+//}
+//console.log(mynumbers);
+//console.log(list);
 
 
 
+//syntax spelling test
+//if
+//if else
+//arrays
+//expression
+//for loops
+//conditionals
+
+// if (x
+ //conditional used to check values against each other
+//uses && (and) and [] (or) for complex values
+// uses ==, <=, >=,_!= to check values
+//if(stuff to be checked){ stuff done when things are checked and to be true
+//)
+//}
+//for loop is a programming construct which is used to repeat an action over and over again.
+//for(){
+//actions to be preformed.
+//}
+//
+//for(variable values=1// sets the incrementor and the value;
+// variable value>10condition to be met
+// ; variable value= variable value-100what we do when the incrementor does.
+//
+// ){
+    //what it is doing over and over and over again
+    // }
+
+//else if definition
+//Executes a statement if a specified condition is true. If the condition is false, another statement can be executed.
+
+//arrays definition
+//Arrays are list-like objects that come with a several built-in methods to perform traversal and mutation operations.
+// Neither the size of a JavaScript array nor the types of its elements are fixed. Since an array's size can grow or shrink at any time,
+// JavaScript arrays are not guaranteed to be dense. In general, these are convenient characteristics;
+// but if these features are not desirable for your particular use case, you might consider using WebGL typed arrays.
 
 
+//expression definition
+//An expression is any valid unit of code that resolves to a value.
+//Conceptually, there are two types of expressions: those that assign a value to a variable and those that simply have a value.
+//  The expression x = 7 is an example of the first type. This expression uses the = operator to assign the value seven to the variable
+// x. The expression itself evaluates to seven.
+//The code 3 + 4 is an example of the second expression type. This expression uses the + operator to add three and four together without
+// assigning the result, seven, to a variable.
 
-
-
+//for loops definition
+//Creates a loop that consists of three optional expressions, enclosed in parentheses and separated by semicolons,
+  //  followed by a statement executed in the loop.
 
 
 

@@ -8,12 +8,12 @@
 
 
 
- var name;
- name =prompt('What is your name?'); //string example
- var age = parseInt(prompt('What is your age?')); //number example
- age = Number(age);
- var pet = 'copper';
- var petAge = '3' *1;
+// var name;
+// name =prompt('What is your name?'); //string example
+// var age = parseInt(prompt('What is your age?')); //number example
+// age = Number(age);
+// var pet = 'copper';
+// var petAge = '3' *1;
 
 
  //console.log(age);
