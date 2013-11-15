@@ -327,68 +327,89 @@
 //}
 //console.log(mynumbers);
 //console.log(list);
+function createworld(){
+var grid = [];
+var terrain;
+var type;
 
 
+for(i=0;i<=9;i++) {
 
-//syntax spelling test
-//if
-//if else
-//arrays
-//expression
-//for loops
-//conditionals
+    grid[i]=[];
 
-// if (x
- //conditional used to check values against each other
-//uses && (and) and [] (or) for complex values
-// uses ==, <=, >=,_!= to check values
-//if(stuff to be checked){ stuff done when things are checked and to be true
-//)
-//}
-//for loop is a programming construct which is used to repeat an action over and over again.
-//for(){
-//actions to be preformed.
-//}
-//
-//for(variable values=1// sets the incrementor and the value;
-// variable value>10condition to be met
-// ; variable value= variable value-100what we do when the incrementor does.
-//
-// ){
-    //what it is doing over and over and over again
-    // }
+    for (j=0;j<=9;j++){
 
-//else if definition
-//Executes a statement if a specified condition is true. If the condition is false, another statement can be executed.
+        terrain = Math.random();
 
-//arrays definition
-//Arrays are list-like objects that come with a several built-in methods to perform traversal and mutation operations.
-// Neither the size of a JavaScript array nor the types of its elements are fixed. Since an array's size can grow or shrink at any time,
-// JavaScript arrays are not guaranteed to be dense. In general, these are convenient characteristics;
-// but if these features are not desirable for your particular use case, you might consider using WebGL typed arrays.
+        type = terrain <= .2 ? ' plain ' : type = terrain <= .4 ? ' desert ' : type = terrain <= .6 ? ' swamp ' : type = terrain <= .8 ? ' grassland ' : ' water ';
+
+      grid[i][j] = type;
+
+    }
+}
+    return grid;
+}
+var grid1= createworld();
+var grid=createworld();
+console.log('ugly version');
+for(i=0;i<grid1.length;i++){
+console.log(grid1[i])
+}
 
 
-//expression definition
-//An expression is any valid unit of code that resolves to a value.
-//Conceptually, there are two types of expressions: those that assign a value to a variable and those that simply have a value.
-//  The expression x = 7 is an example of the first type. This expression uses the = operator to assign the value seven to the variable
-// x. The expression itself evaluates to seven.
-//The code 3 + 4 is an example of the second expression type. This expression uses the + operator to add three and four together without
-// assigning the result, seven, to a variable.
-
-//for loops definition
-//Creates a loop that consists of three optional expressions, enclosed in parentheses and separated by semicolons,
-  //  followed by a statement executed in the loop.
-
-
-
-
-
-
-
-
+function griddisplay(worldarray,xyz,yyy){
+    console.clear();
+    var formattedresults='';
+            for(i=0;i<worldarray.length;i++){
+            for(j=0;j<worldarray[i].length;j++){
+            if(i==yyy &&j ==xyz){formattedresults+='<******> '}
+            else{
+            formattedresults+=worldarray[i][j] +' ';
+            if(worldarray[i][j].length==0){formattedresults+='        '}
+            if(worldarray[i][j].length==0){formattedresults+='        '}
+            if(worldarray[i][j].length==1){formattedresults+='       '}
+            if(worldarray[i][j].length==2){formattedresults+='      '}
+            if(worldarray[i][j].length==3){formattedresults+='     '}
+            if(worldarray[i][j].length==4){formattedresults+='    '}
+            if(worldarray[i][j].length==5){formattedresults+='   '}
+            if(worldarray[i][j].length==6){formattedresults+='  '}
+            if(worldarray[i][j].length==7){formattedresults+=' '}
 
 
+        }   }
+formattedresults+='\n';
+    }
+return formattedresults;
+}
+var grid1= createworld();
+var grid2=createworld();
+
+console.log(griddisplay(grid1));
+
+console.log(grid1[1][1]);
+var quittest= true;
+var x=1;
+var y=1;
+do
+
+  {
+var userinput=prompt('Which direction would you like to move? (N,S,E,W,Q');
+
+if(userinput==null){quittest=false; break;}
+      if (userinput.toUpperCase()=='Q'){quittest=false;}
+else{
+          if (userinput.toUpperCase()=='N'){ y--;}
+          if (userinput.toUpperCase()=='S'){y++;}
+if (userinput.toUpperCase()=='W'){x--;}
+if (userinput.toUpperCase()=='E'){x++;}
+    if(x<0){x=9;}
+if(x>9){x=0;}
+if(y<0){y=9;}
+if(y>9){y=0;}
+console.log(griddisplay(grid1,x,y));
+console.log(grid1[y][x]);
+      }
+} while(quittest)
 
 
 
