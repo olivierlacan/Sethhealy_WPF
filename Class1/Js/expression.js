@@ -13,36 +13,25 @@
 //    console.log(i);
 //}
 
-/// industry. im going to make a discount calculator.
+// industry. my company gives 5% of the yearly profit to charity.
 
-//var price= parseInt(prompt('How much is the product?'));
-//var discount = parseInt(prompt('How much of a discount do you have 10%,15% or 20%?'));
-//var percentages=0;
-//
-//if(discount=='10'){
-//    percentages=.1;
-//}else if(discount=='15'){
-//    percentages=.15;
-//}else if(discount=='20'){
-//    percentages=.2;
-//}
-//
-//var remainder=price-(price*percentages);
-//
-//console.log('You pay');
-//console.log(remainder);
+//var companycost=prompt('How much did it cost to run the company this fiscal year?');
+//var earnings=prompt('How much did the company make this fiscal year?');
+//var profit=earnings-companycost;
+//console.log('we donated');
+//console.log(profit *.05);
 
 ///wacky
 
 // im making a randomized color pattern for my socks in their drawer. i keep my socks segregated but
 // im making a scenario were we can see what socks you pull out without looking.
 
-var array=['Blue sock','White sock','Black sock'];
-
-var randomize= array[Math.floor(Math.random()*array.length)];
-
-console.log('You found a');
-console.log([randomize]);
+//var array=['Blue sock','White sock','Black sock'];
+//
+//var randomize= array[Math.floor(Math.random()*array.length)];
+//
+//console.log('You found a');
+//console.log([randomize]);
 
 
 
