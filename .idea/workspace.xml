@@ -26,7 +26,7 @@
       <file leaf-file-name="Index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Class1/Index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="33" selection-start="99" selection-end="99" vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="240">
+            <state line="4" column="32" selection-start="98" selection-end="98" vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="225">
               <folding />
             </state>
           </provider>
@@ -35,28 +35,26 @@
       <file leaf-file-name="day1array.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Class1/Js/day1array.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="367" column="70" selection-start="7483" selection-end="7483" vertical-scroll-proportion="0.0" vertical-offset="5373" max-vertical-offset="6840">
+            <state line="363" column="16" selection-start="7200" selection-end="7200" vertical-scroll-proportion="0.0" vertical-offset="5313" max-vertical-offset="6870">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="expression.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Class1/Js/expression.js">
+      <file leaf-file-name="conditional.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/conditional/conditional.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="26" selection-start="719" selection-end="719" vertical-scroll-proportion="0.4197349" vertical-offset="0" max-vertical-offset="1110">
+            <state line="8" column="7" selection-start="104" selection-end="104" vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="210">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="conditional.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Class1/Js/conditional.js">
+      <file leaf-file-name="conditional.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/conditional/conditional.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="19" selection-start="269" selection-end="269" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="375">
-              <folding>
-                <element signature="e#0#44#0" expanded="false" />
-              </folding>
+            <state line="20" column="0" selection-start="499" selection-end="499" vertical-scroll-proportion="0.44182622" vertical-offset="0" max-vertical-offset="679">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -80,22 +78,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/Class1/Js/land.js" />
-        <option value="$PROJECT_DIR$/Class1/Js/activity.js" />
-        <option value="$PROJECT_DIR$/Class1/Js/htmlfilesetup.js" />
-        <option value="$PROJECT_DIR$/Class1/Js/htmlsetupfile.html" />
-        <option value="$PROJECT_DIR$/Class1/Js/valuesandvariables.js" />
-        <option value="$PROJECT_DIR$/Class1/Js/expressionsworksheet.js" />
-        <option value="$PROJECT_DIR$/Class1/Js/expressioncalc.js" />
-        <option value="$PROJECT_DIR$/Class1/Js/Personal expression.js" />
-        <option value="$PROJECT_DIR$/Class1/Js/personalexpressions.js" />
         <option value="$PROJECT_DIR$/Class1/Js/test.js" />
         <option value="$PROJECT_DIR$/Class1/Js/Sethhealy_test.js" />
         <option value="$PROJECT_DIR$/Class1/Js/class1.js" />
-        <option value="$PROJECT_DIR$/Class1/Js/conditional.js" />
-        <option value="$PROJECT_DIR$/Class1/Js/day1array.js" />
-        <option value="$PROJECT_DIR$/Class1/Index.html" />
         <option value="$PROJECT_DIR$/Class1/Js/expression.js" />
+        <option value="$PROJECT_DIR$/Class1/Js/conditional.js" />
+        <option value="$PROJECT_DIR$/Conditional/conditional.js" />
+        <option value="$PROJECT_DIR$/Conditional/industry.js" />
+        <option value="$PROJECT_DIR$/Conditional/Conditional.html" />
+        <option value="$PROJECT_DIR$/Conditional/Personal.js" />
+        <option value="$PROJECT_DIR$/Conditionals/Conditional/Conditional.html" />
+        <option value="$PROJECT_DIR$/Class1/Js/day1array.js" />
+        <option value="$PROJECT_DIR$/conditional.html" />
+        <option value="$PROJECT_DIR$/conditional/conditional.html" />
+        <option value="$PROJECT_DIR$/Class1/Js/valuesandvariables.js" />
+        <option value="$PROJECT_DIR$/conditional/conditional.js" />
+        <option value="$PROJECT_DIR$/Class1/Index.html" />
       </list>
     </option>
   </component>
@@ -184,6 +182,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="conditional" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Sethhealy_WPF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Sethhealy_WPF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="Class1" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -229,6 +241,9 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/conditional" />
+      <recent name="$PROJECT_DIR$/Conditionals" />
+      <recent name="$PROJECT_DIR$/Conditional" />
       <recent name="$PROJECT_DIR$/Class1" />
       <recent name="$PROJECT_DIR$/Js" />
     </key>
@@ -329,22 +344,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Class1/Index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="0" selection-start="108" selection-end="108" vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="255">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Class1/Js/land.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="0" selection-start="402" selection-end="402" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="420">
-          <folding>
-            <element signature="e#0#43#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Class1/Js/expressioncalc.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="3" column="0" selection-start="46" selection-end="510" vertical-scroll-proportion="0.02209131" vertical-offset="0" max-vertical-offset="679">
@@ -352,32 +351,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Class1/Js/array.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="0" selection-start="880" selection-end="880" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="900">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Class1/Js/valuesandvariables.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="0" selection-start="501" selection-end="501" vertical-scroll-proportion="0.35346097" vertical-offset="180" max-vertical-offset="1140">
-          <folding>
-            <element signature="e#0#43#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Class1/Js/Volume variables.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="0" selection-start="222" selection-end="222" vertical-scroll-proportion="0.33136967" vertical-offset="0" max-vertical-offset="679">
-          <folding>
-            <element signature="e#0#44#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Class1/Js/personalexpressions.js">
+    <entry file="file://$PROJECT_DIR$/conditional/personalexpressions.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="3" column="22" selection-start="67" selection-end="67" vertical-scroll-proportion="0.02209131" vertical-offset="0" max-vertical-offset="679">
           <folding />
@@ -409,10 +383,33 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Class1/Js/expression.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="0" selection-start="467" selection-end="467" vertical-scroll-proportion="0.30927834" vertical-offset="0" max-vertical-offset="1110">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Class1/Js/activity.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="16" selection-start="233" selection-end="233" vertical-scroll-proportion="-0.48600882" vertical-offset="525" max-vertical-offset="2490">
+        <state line="54" column="7" selection-start="956" selection-end="956" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2490">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Class1/Js/array.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="0" selection-start="880" selection-end="880" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="900">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Class1/Js/Volume variables.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="0" selection-start="222" selection-end="222" vertical-scroll-proportion="0.3429878" vertical-offset="0" max-vertical-offset="656">
+          <folding>
+            <element signature="e#0#44#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -423,32 +420,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Class1/Js/day1array.js">
+    <entry file="file://$PROJECT_DIR$/Class1/Js/valuesandvariables.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="367" column="70" selection-start="7483" selection-end="7483" vertical-scroll-proportion="0.0" vertical-offset="5373" max-vertical-offset="6840">
+        <state line="35" column="0" selection-start="511" selection-end="511" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1140">
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Class1/Js/conditional.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="19" selection-start="269" selection-end="269" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="375">
-          <folding>
-            <element signature="e#0#44#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Class1/Index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="33" selection-start="99" selection-end="99" vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="240">
+        <state line="4" column="32" selection-start="98" selection-end="98" vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="225">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Class1/Js/expression.js">
+    <entry file="file://$PROJECT_DIR$/conditional/conditional.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="26" selection-start="719" selection-end="719" vertical-scroll-proportion="0.4197349" vertical-offset="0" max-vertical-offset="1110">
+        <state line="8" column="7" selection-start="104" selection-end="104" vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="210">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Class1/Js/day1array.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="363" column="16" selection-start="7200" selection-end="7200" vertical-scroll-proportion="0.0" vertical-offset="5733" max-vertical-offset="6870">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conditional/conditional.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="0" selection-start="499" selection-end="499" vertical-scroll-proportion="0.44182622" vertical-offset="0" max-vertical-offset="679">
           <folding />
         </state>
       </provider>

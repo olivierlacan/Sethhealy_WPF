@@ -360,9 +360,11 @@ console.log(grid1[i])
 function griddisplay(worldarray,xyz,yyy){
     console.clear();
     var formattedresults='';
+
             for(i=0;i<worldarray.length;i++){
             for(j=0;j<worldarray[i].length;j++){
-            if(i==yyy &&j ==xyz){formattedresults+='<******> '}
+            if(i==yyy &&j ==xyz)
+            {formattedresults+='<******> '}
             else{
             formattedresults+=worldarray[i][j] +' ';
             if(worldarray[i][j].length==0){formattedresults+='         '}

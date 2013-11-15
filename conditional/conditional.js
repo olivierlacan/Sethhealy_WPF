@@ -5,7 +5,7 @@ var price= parseInt(prompt('How much is the product?'));
 var discount = parseInt(prompt('How much of a discount do you have 10%,15% or 20%?'));
 var percentages=0;
 
-if (discount==null);
+if (discount!='10','15','20'){console.log('invalid selection')}
 if(discount=='10'){
     percentages=.1;
 }else if(discount=='15'){
@@ -18,4 +18,3 @@ var remainder=price-(price*percentages);
 
 console.log('You pay');
 console.log(remainder);
-
