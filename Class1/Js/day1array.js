@@ -365,7 +365,7 @@ function griddisplay(worldarray,xyz,yyy){
             if(i==yyy &&j ==xyz){formattedresults+='<******> '}
             else{
             formattedresults+=worldarray[i][j] +' ';
-            if(worldarray[i][j].length==0){formattedresults+='        '}
+            if(worldarray[i][j].length==0){formattedresults+='         '}
             if(worldarray[i][j].length==0){formattedresults+='        '}
             if(worldarray[i][j].length==1){formattedresults+='       '}
             if(worldarray[i][j].length==2){formattedresults+='      '}
