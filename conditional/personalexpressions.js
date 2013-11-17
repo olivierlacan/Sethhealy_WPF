@@ -9,4 +9,10 @@ var bills=parseInt(prompt('How much did you pay in bills this month?'));
 var left=balance-bills;
 console.log('You have' + left + 'after bills');
 
+if(left >=100){
+    console.log('You have enough for a date!!!!')
+}
+else if( left <=100){
+    console.log('Not enough this month maybe next month :( ');
 
+}
