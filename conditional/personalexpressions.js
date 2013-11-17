@@ -5,6 +5,8 @@
 //it is above 100 means i can go on a date this month.
 
 var balance=parseInt(prompt('How much is in your account now?'));
-
+var bills=parseInt(prompt('How much did you pay in bills this month?'));
+var left=balance-bills;
+console.log('You have' + left + 'after bills');
 
 
