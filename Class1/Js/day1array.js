@@ -417,7 +417,27 @@ if(y>9){y=0;}
 console.log(griddisplay(grid1,x,y));
 console.log(grid1[y][x]);
       }
-} while(quittest)
+} while(quittest);
+
+
+// create a function to create a list of monsters per location
+
+// function monstergen(landtype){
+// select monsters appropriate for the land type
+// conditions to check land
+//randomly assign monsters to the type
+//var randomevent=Math.random();
+//var monsterarray=[];
+// if(landtype=='forest'){
+// bugbears(50),dragons(10) and kobolds(40)
+// if(randomevent<.25){
+// if(randomevent<.125){
+// monsterarray[0]='bugbears'
+//} else if(randomevent<.225){
+//monsterarray[0]='kobolds'
+//}
+//else(monsterarray[0]='dragons'
+
 
 //square area cubed area cone volume sphere volume
 //function circle(r){
