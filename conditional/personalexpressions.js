@@ -12,12 +12,14 @@ console.log('You have ' + left + ' after bills');
 if(left >=100){
     console.log('You have enough for a date!!!!')
 }
- if( left < 100){
+if( left < 100){
     console.log('Not enough this month maybe next month :( ');
 
-   }
+}
 
-else if( left<0){
+else (left<0);
 
-     console.log('Maybe you should consider getting a job')
- }
+console.log('Maybe you should consider getting a job')
+
+
+
