@@ -32,19 +32,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="day1array.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="day1array.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Class1/Js/day1array.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="413" column="16" selection-start="8800" selection-end="8800" vertical-scroll-proportion="0.0" vertical-offset="5724" max-vertical-offset="6870">
+            <state line="366" column="41" selection-start="7362" selection-end="7362" vertical-scroll-proportion="1.2597598" vertical-offset="4651" max-vertical-offset="7215">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="personalexpressions.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="personalexpressions.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/conditional/personalexpressions.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="57" selection-start="665" selection-end="665" vertical-scroll-proportion="0.4197349" vertical-offset="0" max-vertical-offset="679">
+            <state line="21" column="53" selection-start="654" selection-end="654" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="435">
               <folding>
                 <element signature="e#0#44#0" expanded="false" />
               </folding>
@@ -89,7 +89,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/Class1/Js/Sethhealy_test.js" />
         <option value="$PROJECT_DIR$/Class1/Js/class1.js" />
         <option value="$PROJECT_DIR$/Class1/Js/expression.js" />
         <option value="$PROJECT_DIR$/Class1/Js/conditional.js" />
@@ -98,13 +97,14 @@
         <option value="$PROJECT_DIR$/Conditional/Conditional.html" />
         <option value="$PROJECT_DIR$/Conditional/Personal.js" />
         <option value="$PROJECT_DIR$/Conditionals/Conditional/Conditional.html" />
-        <option value="$PROJECT_DIR$/Class1/Js/day1array.js" />
         <option value="$PROJECT_DIR$/conditional.html" />
         <option value="$PROJECT_DIR$/Class1/Js/valuesandvariables.js" />
         <option value="$PROJECT_DIR$/Class1/Index.html" />
         <option value="$PROJECT_DIR$/conditional/conditional.js" />
         <option value="$PROJECT_DIR$/conditional/conditional.html" />
+        <option value="$PROJECT_DIR$/Class1/Js/griddisplay.js" />
         <option value="$PROJECT_DIR$/conditional/personalexpressions.js" />
+        <option value="$PROJECT_DIR$/Class1/Js/day1array.js" />
       </list>
     </option>
   </component>
@@ -438,17 +438,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/conditional/conditional.js">
+    <entry file="file://$PROJECT_DIR$/conditional/personalexpressions.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="32" selection-start="241" selection-end="241" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="390">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Class1/Js/day1array.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="413" column="16" selection-start="8800" selection-end="8800" vertical-scroll-proportion="0.0" vertical-offset="5229" max-vertical-offset="6870">
-          <folding />
+        <state line="21" column="53" selection-start="654" selection-end="654" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="435">
+          <folding>
+            <element signature="e#0#44#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -459,12 +454,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/conditional/personalexpressions.js">
+    <entry file="file://$PROJECT_DIR$/conditional/conditional.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="57" selection-start="665" selection-end="665" vertical-scroll-proportion="0.4197349" vertical-offset="0" max-vertical-offset="679">
-          <folding>
-            <element signature="e#0#44#0" expanded="false" />
-          </folding>
+        <state line="7" column="32" selection-start="241" selection-end="241" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="390">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Class1/Js/day1array.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="366" column="41" selection-start="7362" selection-end="7362" vertical-scroll-proportion="1.2597598" vertical-offset="4651" max-vertical-offset="7215">
+          <folding />
         </state>
       </provider>
     </entry>

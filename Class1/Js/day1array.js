@@ -357,14 +357,14 @@ console.log(grid1[i])
 }
 
 
-function griddisplay(worldarray,xyz,yyy){
+function griddisplay(worldarray,xyz,yyy,username){
     console.clear();
     var formattedresults='';
 
             for(i=0;i<worldarray.length;i++){
             for(j=0;j<worldarray[i].length;j++){
             if(i==yyy &&j ==xyz)
-            {formattedresults+='<******> '}
+            {formattedresults+= username }
             else{
             formattedresults+=worldarray[i][j] +' ';
             if(worldarray[i][j].length==0){formattedresults+='         '}
@@ -392,9 +392,15 @@ console.log(grid1[1][1]);
 var quittest= true;
 var x=1;
 var y=1;
+var username=prompt('What is your name?');
+username= username.substring(0,6);
+console.log(username);
+
 do
 
   {
+
+
 var userinput=prompt('Which direction would you like to move? (N,S,E,W,Q');
 
 if(userinput==null){quittest=false; break;}
@@ -413,20 +419,37 @@ console.log(grid1[y][x]);
       }
 } while(quittest)
 
+//square area cubed area cone volume sphere volume
+//function circle(r){
+//
+//    return r*r*Math.PI;
+//}
+//
+//function cylinder(areaCircle,h){
+//    return areaCircle*h;
+//}
+//
+//
+//console.log(cylinder(circle(10),15));
+//
 
+//function square(l,w){
+//    return l*w;
+//}
+//
+//function cube(square,h){
+//return square*h;
+//
+//}
+//console.log(cube(square(10),6));
 
-
-
-
-
-
-
-
-
-
-
-
-
+//
+//function cone(r,h){
+//    return 1/3* circle(r)*h;
+//}
+//
+//console.log(cone(10,15));
+//
 
 
 
