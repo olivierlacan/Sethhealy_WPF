@@ -26,11 +26,8 @@
       <file leaf-file-name="Index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Class1/Index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="0" selection-start="30" selection-end="109" vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="225">
-              <folding>
-                <marker date="1384548557000" expanded="true" signature="21:140" placeholder="..." />
-                <marker date="1384548557000" expanded="true" signature="28:116" placeholder="..." />
-              </folding>
+            <state line="9" column="7" selection-start="141" selection-end="141" vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="225">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -45,18 +42,27 @@
         </entry>
       </file>
       <file leaf-file-name="function.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Class1/Js/function.html">
+        <entry file="file://$PROJECT_DIR$/Class1/functions/function.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="26" selection-start="92" selection-end="92" vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="225">
+            <state line="4" column="17" selection-start="83" selection-end="83" vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="225">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="conditional.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/conditional/conditional.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="25" selection-start="55" selection-end="55" vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="210">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="function_industry.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Class1/Js/function_industry.js">
+        <entry file="file://$PROJECT_DIR$/Class1/functions/function_industry.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="79" selection-start="416" selection-end="416" vertical-scroll-proportion="0.26509574" vertical-offset="0" max-vertical-offset="679">
+            <state line="16" column="16" selection-start="434" selection-end="434" vertical-scroll-proportion="0.30927834" vertical-offset="0" max-vertical-offset="679">
               <folding>
                 <element signature="e#0#44#0" expanded="false" />
               </folding>
@@ -83,8 +89,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/conditional.html" />
-        <option value="$PROJECT_DIR$/Class1/Js/valuesandvariables.js" />
         <option value="$PROJECT_DIR$/Class1/Index.html" />
         <option value="$PROJECT_DIR$/Class1/Js/griddisplay.js" />
         <option value="$PROJECT_DIR$/Class1/Js/day1array.js" />
@@ -99,12 +103,14 @@
         <option value="$PROJECT_DIR$/Class1/Js/function/industry.js" />
         <option value="$PROJECT_DIR$/Class1/Js/function.html" />
         <option value="$PROJECT_DIR$/Class1/Js/function_industry.js" />
+        <option value="$PROJECT_DIR$/Class1/functions/function.html" />
+        <option value="$PROJECT_DIR$/Class1/functions/function_industry.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="20" />
-    <option name="y" value="70" />
+    <option name="x" value="25" />
+    <option name="y" value="29" />
     <option name="width" value="1390" />
     <option name="height" value="802" />
   </component>
@@ -223,6 +229,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Sethhealy_WPF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Sethhealy_WPF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Class1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="functions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -246,11 +270,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Class1/functions" />
       <recent name="$PROJECT_DIR$/conditional" />
       <recent name="$PROJECT_DIR$/Conditionals" />
       <recent name="$PROJECT_DIR$/Conditional" />
       <recent name="$PROJECT_DIR$/Class1" />
-      <recent name="$PROJECT_DIR$/Js" />
     </key>
   </component>
   <component name="RunManager">
@@ -312,7 +336,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="20" y="70" width="1390" height="802" extended-state="0" />
+    <frame x="25" y="29" width="1390" height="802" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -425,23 +449,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/conditional/conditional.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="25" selection-start="55" selection-end="55" vertical-scroll-proportion="0.06870229" vertical-offset="0" max-vertical-offset="655">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Class1/Index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="0" selection-start="30" selection-end="109" vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="225">
-          <folding>
-            <marker date="1384548557000" expanded="true" signature="21:140" placeholder="..." />
-            <marker date="1384548557000" expanded="true" signature="28:116" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Class1/Js/day1array.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="461" column="2" selection-start="9757" selection-end="9757" vertical-scroll-proportion="-11.923077" vertical-offset="6605" max-vertical-offset="7515">
@@ -449,16 +456,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Class1/Js/function.html">
+    <entry file="file://$PROJECT_DIR$/Class1/Index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="26" selection-start="92" selection-end="92" vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="225">
+        <state line="9" column="7" selection-start="141" selection-end="141" vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="225">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Class1/Js/function_industry.js">
+    <entry file="file://$PROJECT_DIR$/Class1/functions/function.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="79" selection-start="416" selection-end="416" vertical-scroll-proportion="0.26509574" vertical-offset="0" max-vertical-offset="679">
+        <state line="4" column="17" selection-start="83" selection-end="83" vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="225">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conditional/conditional.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="25" selection-start="55" selection-end="55" vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="210">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Class1/functions/function_industry.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="16" selection-start="434" selection-end="434" vertical-scroll-proportion="0.30927834" vertical-offset="0" max-vertical-offset="679">
           <folding>
             <element signature="e#0#44#0" expanded="false" />
           </folding>

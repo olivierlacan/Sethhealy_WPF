@@ -14,4 +14,4 @@ function pythagorean(a,b){   //making the function so i can recall it
 
 var final = pythagorean(a,b);  // pulling the function so i can console.log it.
 
-console.log(final);
+console.log('c= '+final);
