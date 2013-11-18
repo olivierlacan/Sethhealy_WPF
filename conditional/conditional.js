@@ -17,7 +17,7 @@ if(discount=='10'){
     percentages=.2;
 }
 
-var remainder=price-(price*percentages);
+var remainder=price-(price*percentages); // finishing it off by calculating the discount
 
 console.log('You pay');
-console.log(remainder);
+console.log(remainder); // i wanted to add how much you owed afterwards
