@@ -11,3 +11,7 @@ function pythagorean(a,b){
     var final = Math.sqrt(c);
     return final;
 }
+
+var final = pythagorean(a,b);
+
+console.log(final);
