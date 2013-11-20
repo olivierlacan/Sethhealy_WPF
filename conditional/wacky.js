@@ -8,11 +8,12 @@ var sleep= prompt('How long do you need to sleep for?');
 var left= 24-sleep-work-tv; //I wanted to show how much time in the day you have left after watching tv and doing homework.
 console.log('You have '+left+' hours left');
 
-if(left<2){
-    console.log('Not much time left'); //i showed that you dont have that much time to be watching tv.
-}
-else
-{
-    console.log('get to relax some'); // i put this to show you that you have some more time to do what you want.
-}
+//if(left<2){
+//    console.log('Not much time left'); //i showed that you don't have that much time to be watching tv.
+//}
+//else
+//{
+//    console.log('get to relax some'); // i put this to show you that you have some more time to do what you want.
+//}
 
+left<2? console.log('Not much time'):console.log('get to relax');
