@@ -37,7 +37,7 @@
       <file leaf-file-name="function_wacky.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Class1/functions/function_wacky.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="25" selection-start="307" selection-end="307" vertical-scroll-proportion="0.3153153" vertical-offset="0" max-vertical-offset="666">
+            <state line="16" column="91" selection-start="458" selection-end="458" vertical-scroll-proportion="0.3153153" vertical-offset="0" max-vertical-offset="666">
               <folding>
                 <element signature="n#!!doc;n#random#0" expanded="false" />
               </folding>
@@ -478,12 +478,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Class1/functions/Function_personal.js">
+    <entry file="file://$PROJECT_DIR$/Class1/functions/function.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="98" selection-start="903" selection-end="903" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="540">
-          <folding>
-            <element signature="e#0#44#0" expanded="false" />
-          </folding>
+        <state line="4" column="18" selection-start="84" selection-end="84" vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="225">
+          <folding />
         </state>
       </provider>
     </entry>
@@ -496,16 +494,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Class1/functions/function.html">
+    <entry file="file://$PROJECT_DIR$/Class1/functions/Function_personal.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="18" selection-start="84" selection-end="84" vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="225">
-          <folding />
+        <state line="30" column="98" selection-start="903" selection-end="903" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="540">
+          <folding>
+            <element signature="e#0#44#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Class1/functions/function_wacky.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="25" selection-start="307" selection-end="307" vertical-scroll-proportion="0.3153153" vertical-offset="0" max-vertical-offset="666">
+        <state line="16" column="91" selection-start="458" selection-end="458" vertical-scroll-proportion="0.3153153" vertical-offset="0" max-vertical-offset="666">
           <folding>
             <element signature="n#!!doc;n#random#0" expanded="false" />
           </folding>
