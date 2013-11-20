@@ -1,6 +1,8 @@
 /**
  * Created by sethhealy on 11/18/13.
  */
+// Im making a pythagorean calculator
+
 
 var a=parseInt(prompt('What is the value for a?')); ///adding prompts for the pythagorean.
 var b=parseInt(prompt('What is the value for b?'));
