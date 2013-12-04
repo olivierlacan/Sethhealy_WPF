@@ -11,8 +11,8 @@ Assignment; Goal1: Assignment: Duel1
 
     console.log("FIGHT!!!!!");
 
-    var playeronename="Spiderman";
-    var playertwoname="Batman";
+    var playeronename="Kobal";
+    var playertwoname="Kratos";
     var player1damage=20;
     var player2damage=20;
     var playeronehealth=100;
