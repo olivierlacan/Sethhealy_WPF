@@ -23,19 +23,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Class1wpa.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Class1/Js/Class1wpa.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="35" column="2" selection-start="810" selection-end="810" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="735">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="day2.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Class1/Js/day2.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="47" column="0" selection-start="1246" selection-end="1246" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="1455">
+            <state line="47" column="0" selection-start="1246" selection-end="1246" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1455">
               <folding>
                 <element signature="e#0#43#0" expanded="false" />
               </folding>
@@ -43,37 +34,30 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="fight1.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/wk1/fight1.js">
+      <file leaf-file-name="search.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Healy_Seth_Debug_WPA/js/search.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="27" selection-start="1084" selection-end="1084" vertical-scroll-proportion="0.65625" vertical-offset="30" max-vertical-offset="765">
-              <folding />
+            <state line="28" column="0" selection-start="748" selection-end="748" vertical-scroll-proportion="0.5703125" vertical-offset="55" max-vertical-offset="1905">
+              <folding>
+                <marker date="1386131553000" expanded="true" signature="2411:2426" placeholder="..." />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="fight.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wk1/fight.js">
+      <file leaf-file-name="database.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Healy_Seth_Debug_WPA/js/database.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="25" selection-start="275" selection-end="275" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1965">
+            <state line="0" column="4" selection-start="4" selection-end="4" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="420">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wk1/index.html">
+        <entry file="file://$PROJECT_DIR$/Healy_Seth_Debug_WPA/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="41" column="23" selection-start="704" selection-end="704" vertical-scroll-proportion="-20.041666" vertical-offset="134" max-vertical-offset="750">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="conditional.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/conditional/conditional.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="7" selection-start="134" selection-end="134" vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="225">
+            <state line="6" column="7" selection-start="194" selection-end="194" vertical-scroll-proportion="-3.75" vertical-offset="0" max-vertical-offset="555">
               <folding />
             </state>
           </provider>
@@ -98,8 +82,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/Class1/Js/class1.js" />
-        <option value="$PROJECT_DIR$/Class1/functions/function_industry.js" />
         <option value="$PROJECT_DIR$/conditional/wacky.js" />
         <option value="$PROJECT_DIR$/Class1/functions/Function_personal.js" />
         <option value="$PROJECT_DIR$/Class1/functions/function.html" />
@@ -114,6 +96,8 @@
         <option value="$PROJECT_DIR$/wk1/index.html" />
         <option value="$PROJECT_DIR$/wk1/fight.js" />
         <option value="$PROJECT_DIR$/wk1/fight1.js" />
+        <option value="$PROJECT_DIR$/Healy_Seth_Debug_WPA/js/database.js" />
+        <option value="$PROJECT_DIR$/Healy_Seth_Debug_WPA/js/search.js" />
       </list>
     </option>
   </component>
@@ -203,7 +187,25 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="wk1" />
+              <option name="myItemId" value="Healy_Seth_Debug_WPA" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Sethhealy_WPF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Sethhealy_WPF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Healy_Seth_Debug_WPA" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -391,71 +393,10 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Class1/functions/function.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="18" selection-start="84" selection-end="84" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="225" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Class1/functions/function_industry.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="0" selection-start="483" selection-end="483" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="345" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Class1/functions/Function_personal.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="98" selection-start="903" selection-end="903" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="540" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Class1/Js/class1.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="27" selection-start="754" selection-end="754" vertical-scroll-proportion="0.70692194" vertical-offset="0" max-vertical-offset="679" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Class1/Js/day1array.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="290" column="26" selection-start="5877" selection-end="5877" vertical-scroll-proportion="-0.35585585" vertical-offset="4587" max-vertical-offset="7515" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Class1/functions/function_wacky.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="91" selection-start="458" selection-end="458" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="300" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/conditional/wacky.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="65" selection-start="828" selection-end="828" vertical-scroll-proportion="0.3976436" vertical-offset="0" max-vertical-offset="679" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/conditional/personalexpressions.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="1" selection-start="975" selection-end="975" vertical-scroll-proportion="0.44182622" vertical-offset="0" max-vertical-offset="679" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/conditional/conditional.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="0" selection-start="959" selection-end="959" vertical-scroll-proportion="0.518018" vertical-offset="0" max-vertical-offset="666" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/conditional/conditional.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="9" column="7" selection-start="134" selection-end="134" vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="225">
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Class1/Js/Class1wpa.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="2" selection-start="810" selection-end="810" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="735">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Class1/Js/day2.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="47" column="0" selection-start="1246" selection-end="1246" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="1455">
-          <folding>
-            <element signature="e#0#43#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -466,24 +407,111 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wk1/index.html">
+    <entry file="file://$PROJECT_DIR$/Healy_Seth_Duel1_WPA/fight.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="23" selection-start="704" selection-end="704" vertical-scroll-proportion="-20.041666" vertical-offset="134" max-vertical-offset="750">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1995">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Class1/Js/day2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="47" column="0" selection-start="1246" selection-end="1246" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1455">
+          <folding>
+            <element signature="e#0#43#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conditional/wacky.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="65" selection-start="828" selection-end="828" vertical-scroll-proportion="0.4376013" vertical-offset="0" max-vertical-offset="617">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wk1/fight.js">
+    <entry file="file://$PROJECT_DIR$/conditional/personalexpressions.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="25" selection-start="275" selection-end="275" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1965">
+        <state line="20" column="1" selection-start="975" selection-end="975" vertical-scroll-proportion="0.48622367" vertical-offset="0" max-vertical-offset="617">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wk1/fight1.js">
+    <entry file="file://$PROJECT_DIR$/conditional/conditional.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="27" selection-start="1084" selection-end="1084" vertical-scroll-proportion="0.65625" vertical-offset="30" max-vertical-offset="765">
+        <state line="23" column="0" selection-start="959" selection-end="959" vertical-scroll-proportion="0.5502392" vertical-offset="0" max-vertical-offset="627">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Class1/Js/class1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="27" selection-start="754" selection-end="754" vertical-scroll-proportion="0.75" vertical-offset="0" max-vertical-offset="640">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Class1/Js/day1array.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="114" column="9" selection-start="2473" selection-end="2478" vertical-scroll-proportion="0.3327787" vertical-offset="1510" max-vertical-offset="7515">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Class1/Js/array.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="930">
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Class1/Js/activity.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2520">
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Class1/Js/Class1wpa.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="2" selection-start="810" selection-end="810" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="735">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Healy_Seth_Debug_WPA/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="7" selection-start="194" selection-end="194" vertical-scroll-proportion="-3.75" vertical-offset="0" max-vertical-offset="555">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/EcmaScript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="863" column="17" selection-start="13419" selection-end="13419" vertical-scroll-proportion="0.309375" vertical-offset="12747" max-vertical-offset="13785">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Healy_Seth_Debug_WPA/js/database.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="4" selection-start="4" selection-end="4" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="640">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Healy_Seth_Debug_WPA/js/search.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="0" selection-start="748" selection-end="748" vertical-scroll-proportion="0.5703125" vertical-offset="55" max-vertical-offset="1905">
+          <folding>
+            <marker date="1386131553000" expanded="true" signature="2411:2426" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
