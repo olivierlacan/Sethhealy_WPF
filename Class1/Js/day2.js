@@ -23,7 +23,7 @@
 //var firstletter= test.charAt(0);
 //var partial=test.substr(1,3);
 //console.log(partial);
-
+//
 //var date=new Date();
 //console.log(date.getMonth());
 //function cooldate(){
@@ -35,20 +35,19 @@
 //    var dayname= days[date.getDay()];
 //return dayname + "," + month + "/"+ day+ "/" + year; }
 //console.log(cooldate());
-var deck= ["a","2","3","4","5","6","7","8","9","10","jack","queen","king"];
-play();
-function deal(){
-    var cardNumber = ~~(Math.random() *deck.length);
-    var card=deck[cardNumber];
-    deck.splice(cardNumber,1);
-    return card;
-    }
-function play(){
-    for (i=0;i<13;i++){
-
-        console.log(i,deal(),deck);
-    }
-}
+//var deck= ["a","2","3","4","5","6","7","8","9","10","jack","queen","king"];
+//play();
+//function deal(){
+//    var cardNumber = ~~(Math.random() *deck.length);
+//    var card=deck[cardNumber];
+//    deck.splice(cardNumber,1);
+//    return card;
+//    }
+//function play(){
+//    for (i=0;i<13;i++){
+//        console.log(i,deal(),deck);
+//    }
+//}
 
 
 
