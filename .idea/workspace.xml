@@ -46,7 +46,7 @@
       <file leaf-file-name="jstest.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Class1/Js/jstest.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="0" selection-start="427" selection-end="427" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="750">
+            <state line="30" column="4" selection-start="713" selection-end="713" vertical-scroll-proportion="0.0" vertical-offset="69" max-vertical-offset="750">
               <folding>
                 <element signature="e#0#43#0" expanded="false" />
               </folding>
@@ -57,7 +57,7 @@
       <file leaf-file-name="tester.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Class1/Js/tester.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="0" selection-start="786" selection-end="786" vertical-scroll-proportion="0.52863437" vertical-offset="75" max-vertical-offset="870">
+            <state line="29" column="0" selection-start="770" selection-end="770" vertical-scroll-proportion="0.5726872" vertical-offset="15" max-vertical-offset="1020">
               <folding>
                 <element signature="e#0#43#0" expanded="false" />
               </folding>
@@ -551,18 +551,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Class1/Js/day4.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="0" selection-start="649" selection-end="649" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1755">
-          <folding>
-            <element signature="e#0#43#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Class1/Js/jstest.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="0" selection-start="427" selection-end="427" vertical-scroll-proportion="0.0" vertical-offset="39" max-vertical-offset="750">
+        <state line="30" column="4" selection-start="713" selection-end="713" vertical-scroll-proportion="0.0" vertical-offset="69" max-vertical-offset="750">
           <folding>
             <element signature="e#0#43#0" expanded="false" />
           </folding>
@@ -578,9 +569,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Class1/Js/day4.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="0" selection-start="649" selection-end="649" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1755">
+          <folding>
+            <element signature="e#0#43#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Class1/Js/tester.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="0" selection-start="786" selection-end="786" vertical-scroll-proportion="0.52863437" vertical-offset="75" max-vertical-offset="870">
+        <state line="29" column="0" selection-start="770" selection-end="770" vertical-scroll-proportion="0.5726872" vertical-offset="15" max-vertical-offset="1020">
           <folding>
             <element signature="e#0#43#0" expanded="false" />
           </folding>
