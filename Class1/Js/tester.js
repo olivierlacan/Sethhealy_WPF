@@ -25,7 +25,7 @@
         population();
 
     }
-    function addstudents(n,add,g){
+    function addstudents(n,g,add){
         var obj=[{name:n,address:add,gpa:g}];
 
         student.push(obj);
@@ -33,10 +33,10 @@
     }
     function population(){
 
-        for(var p in student[counter]){
-            name.innerHTML= "name: "+ student[counter].name;
-            address.innerHTML= "address: "+ student[counter].address;
-            gpa.innerHTML= "gpa: "+  student[counter].gpa;
+        for(var p in students[counter]){
+            name.innerHTML= "name: "+ students[counter].name;
+            address.innerHTML= "address: "+ students[counter].address;
+            gpa.innerHTML= "gpa: "+  students[counter].gpa;
         }
 
         if(counter==student.length){
