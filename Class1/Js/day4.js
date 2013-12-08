@@ -21,7 +21,6 @@ displayinfo();
 addstudent("billy",32,[90,90,88]);
     function addstudent(n,a,g){
         students.push({name:n,age:a,grades:g})
-
     }
 function displayinfo(){
     for(i=0; i<students.length;i++)
@@ -61,7 +60,7 @@ function displayinfo(){
 //if(counter==vgames.length){
 //
 //    counter=0;
-//    btn.removeEventListener("click",onClick);
+//    btn.removeEventListener("Click",onClick);
 //}
 //}
 //}());

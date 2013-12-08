@@ -15,9 +15,9 @@
     ];
 
 displayinfo();
-    students.push(student);
-    population();
-    btn.addEventListener("click",onClick);
+        students.push(student);
+        population();
+        btn.addEventListener("click",onClick);
 
 
     function onClick(e){
@@ -25,8 +25,8 @@ displayinfo();
         population();
 
     }
-    function addstudent(n,add,g){
-        var obj=[{name:n,address:add,gpa:g}];
+    function addstudent(n,adr,g){
+        var obj=[{name:n,address:adr,gpa:g}];
 
         student.push(obj);
 
@@ -37,6 +37,7 @@ displayinfo();
             name.innerHTML= "name: "+ students[counter].name;
             address.innerHTML= "address: "+ students[counter].address;
             gpa.innerHTML= "gpa: "+  students[counter].gpa;
+            average.innerHTML="average: "+ students[counter].average;
         }
 
         if(counter==students.length){
