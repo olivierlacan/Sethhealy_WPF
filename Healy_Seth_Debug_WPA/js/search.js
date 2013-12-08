@@ -41,7 +41,7 @@
             var dbitem = db[i].toLowerCase().substring(0, dbTitleEnd);
             // loop through the user's search query words
             // save a lowercase variable of the search keyword
-            
+
             for (var ii = 0, jj = queryArray.length; ii < jj; ii++) {
                 var qitem = queryArray[ii].toLowerCase();
                 // is the keyword anywhere in the video title?
