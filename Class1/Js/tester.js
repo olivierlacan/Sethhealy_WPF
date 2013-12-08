@@ -14,18 +14,18 @@
                    {name:'Mmouse',address:"disneyworld",gpa:[3,4,3]}
     ];
 
-
-    student.push(students);
+displayinfo();
+    students.push(student);
     population();
     btn.addEventListener("click",onClick);
 
 
     function onClick(e){
-        addstudents("Sman","ice place",[3,4,3]);
+        addstudent("Sman","ice place",[3,4,3]);
         population();
 
     }
-    function addstudents(n,g,add){
+    function addstudent(n,add,g){
         var obj=[{name:n,address:add,gpa:g}];
 
         student.push(obj);
@@ -39,13 +39,23 @@
             gpa.innerHTML= "gpa: "+  students[counter].gpa;
         }
 
-        if(counter==student.length){
+        if(counter==students.length){
             counter=0;
             btn.removeEventListener("click",onClick);
         }
 
         counter++;
     }
+    function displayinfo(){
+        for(i=0; i<students.length;i++)
+        {
+            for(var p in students[i]){
+                console.log(p+":"+students[i][p]);
+            }
+
+            console.log('---------------------');
+
+        }}
 }());
 
 
