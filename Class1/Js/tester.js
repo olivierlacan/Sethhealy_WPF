@@ -13,10 +13,29 @@
     { name: "Jbond", address: "somewhere", gpa:[4, 4, 4] },
     { name: "Mmouse", address: "disneyworld", gpa:[3, 4, 3] }
   ];
+  console.log(students)
 
   displayinfo();
-  students.push(student);
+
+  students.push(student); // the student variable is equal to [] here
+  // therefore you're pushing nothing inside the students array
+  console.log(students)
+  // output: [Object, Object, Array[0]]
+  // since you pushed an empty array at the end of the students array
+  // the population() function will attempt to print:
+  //name: undefined
+  //address: undefined
+  //gpa: undefined
+  //average: undefined
+  //
+  // that's because your for(var p in students[counter]){}) loop 
+  // will try to print values expecting an object that represents a student 
+  // (with `name`, `address` and `gpa` properties) when instead you're passing: `[]`
+
+  // FIXME: this is a poor name for an action: avoid using nounds when verbs 
+  // would be more appropriate. populate() would be better for instance.
   population();
+
   btn.addEventListener("click", onClick);
 
   function onClick(e){
@@ -24,8 +43,12 @@
     population();
   }
 
+  // FIXME: make sure you follow camelCasing conventions in JavaScript naming
+  // this should be called `addStudent`.
+  // FIXME: name your arguments properly, abbreviations and shortcuts are 
+  // error-inducing because it's hard to tell what they represent
   function addstudent(n, adr, g){
-    var obj = [{ name:n, address:adr, gpa:g }];
+    var obj = [{ name: n, address: adr, gpa: g }];
     student.push(obj);
   }
 
@@ -37,6 +60,7 @@
       average.innerHTML = "average: " + students[counter].average;
     }
 
+    // 
     if(counter == students.length){
       counter = 0;
       btn.removeEventListener("click", onClick);
